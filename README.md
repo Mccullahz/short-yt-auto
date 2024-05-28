@@ -21,7 +21,7 @@ Next, modify line 37, idea prompt:
 </pre>
 You will want to replace this prompt with whatever you wish to place onto the short. This can be changed a lot, and really should be more specific than it currently is. Adding character limits could further narrow down the quote so that FFMPEG can ensure proper formatting.
 
-Finally, add music files and template files that you will be using for the shorts. You can add as many as you wish, they simple must be specified in line 51, 
+Finally, add music files and template files that you will be using for the shorts. You can add as many as you wish, they simply must be specified in line 51, 
 <pre>
  video_files = ['./shorts/templates/example.mp4']
  </pre>
