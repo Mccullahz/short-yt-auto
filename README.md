@@ -5,9 +5,9 @@ This project serves as a crude example of utilizing API tokens, and though simpl
 
 ## Usage
 - To use this project, you will simply need to:
-- modify the script file to fit your needs
+- Modify the script file to fit your needs
 and 
-- add the music and template mp4 files to the project.
+- Add the music and template mp4 files to the project.
 
 <---------------------------------------------------------------------------------------------------------------------------------------------------->
 First, modify line 13, the API key, in the script file:
@@ -23,10 +23,10 @@ You will want to replace this prompt with whatever you wish to place onto the sh
 
 Finally, add music files and template files that you will be using for the shorts. You can add as many as you wish, they simple must be specified in line 51, 
 <pre>
- video_files = ['#REDACTED']
+ video_files = ['./shorts/templates/example.mp4']
  </pre>
  and line 67,
  <pre>
-         music_files = ['#REDACTED']
+         music_files = ['./shorts/music/example.mp3']
 </pre>
 
