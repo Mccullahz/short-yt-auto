@@ -9,7 +9,7 @@ This project serves as a crude example of utilizing API tokens, and though simpl
 and 
 - add the music and template mp4 files to the project.
 
-<-------------------------------------------------------------------------->
+<----------------------------------------------------------------------------------------------------------------------->
 First, modify line 13, the API key, in the script file:
 <pre>
 openai.api_key = '#REDACTED'
